@@ -27,16 +27,6 @@ Sou uma desenvolvedora fullstack. Tenho me dedicado a evoluir minhas habilidades
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/rayssalvex" title="Perfil da Rayssa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayssalvex&theme=dracula&show_icons=true" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssalvex&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 💬 Vamos conversar?
 
 Se você quiser trocar ideias, colaborar em projetos ou simplesmente bater um papo sobre tecnologia, será um prazer falar com você!
