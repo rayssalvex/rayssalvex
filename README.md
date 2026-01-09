@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Rayssa Alves!
 
-Sou uma desenvolvedora fullstack apaixonada por tecnologia e por transformar ideias em soluções reais. Tenho me dedicado a evoluir minhas habilidades no desenvolvimento web, com foco em aplicações modernas, escaláveis e acessíveis.
+Sou uma desenvolvedora fullstack. Tenho me dedicado a evoluir minhas habilidades no desenvolvimento web, com foco em aplicações modernas, escaláveis e acessíveis.
 
 ---
 
